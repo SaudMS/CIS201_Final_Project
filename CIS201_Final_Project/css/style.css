@@ -1,0 +1,58 @@
+.text {
+    float: left;
+    width: 33.33%;
+    margin: auto;
+    padding: inherit;
+    text-align: center;
+}
+.special , .story, .about{
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+}
+.nav {
+
+
+}
+
+.nav li{
+    display: inline;
+    
+}
+a{
+    text-decoration:none;
+    color: black;
+    padding-right:25px;
+    margin: 25px;
+    
+    text-align: center;
+}
+.navbar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 20px;
+    
+}
+#orderTotal{
+    margin-right: 16px;
+    text-align: right;
+    margin-top: 150px;
+    
+}
+#itemCounter{
+    position: absolute;
+    right: 56px;
+    top: 0px
+}
+#basketImg{
+    position: absolute;
+    right: 16px;
+    top: 16px;
+}
+#items{
+    margin-top: 50;
+    margin-right: 10px;
+    text-align: right;
+}
